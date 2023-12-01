@@ -7,3 +7,4 @@ I am a professional full-stack web engineer :))
 - 🥾 I am currently learning more about distributed systems artchitectures design and Graph/Column oritented databases
 
 you can contact me through alexeyisaev29032001@gmail.com :>
+my LC: https://leetcode.com/simple-russia/
